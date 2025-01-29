@@ -1,0 +1,1043 @@
+@import url(fonts/font.css);
+
+.big_box{
+    width: 1440px;
+    margin: 0px auto;
+}
+
+.head{
+    width: 1440px;
+    height: 768px;
+    background-image: url(images/Background.png);
+    padding-top: 93px;
+}
+
+.text_1{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.text_2{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+.text_3{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 78px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.text_4{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin-top: 26px;
+}
+
+.text_5{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-top: 106px;
+}
+
+.text_6{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #333333;
+    margin-top: 93px;
+}
+
+.text_7{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: justify;
+    color: #333333;
+    margin-top: 169px;
+}
+
+.text_8{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: justify;
+    color: #333333;
+    margin-top: 30px;
+}
+
+.text_9{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #333333;
+}
+
+.navbar{
+    display: none;
+}
+
+.title_text_1{
+    width: 1109px;
+    height: 29px;
+    margin-top: 10px;
+}
+
+.title_text_3{
+    width: 529px;
+    height: 29px;
+    display: block;
+}
+
+.title_text_4{
+    width: 1108px;
+    height: 261px;
+    padding-top: 145px;
+}
+
+.midle{
+    width: 1106px;
+    height: 29px;
+}
+
+.midle_1{
+    width: 1106px;
+    height: 231px;
+}
+
+.midle_2{
+    width: 1440px;
+    height: 693px;
+    background-color:  #FFFAF2;
+    margin-top: 115px;
+}
+
+.inside{
+    width: 1103px;
+    height: 29px;
+    padding-top: 93px;
+}
+
+.inside_1{
+    width: 1110px;
+    height: 340px;
+    margin: 115px auto;
+}
+
+.img_4{
+    width: 350px;
+    height: 340px;
+    background-image: url(images/Profile\ Picture.png);
+    background-size: cover;
+}
+
+.inside_2{
+    width: 634px;
+    height: 340px;
+    display: grid;
+    grid-template-columns: 189px 446px;
+    grid-template-rows: 25px 65px 45px 45px 45px 45px 45px;
+}
+
+.text_grid_1{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+}
+
+.text_grid_2{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.text_grid_3{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+
+.text_grid_4{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+    grid-row-start: 4;
+    grid-row-end: 5;
+}
+
+.text_grid_5{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+    grid-row-start: 5;
+    grid-row-end: 6;
+}
+
+.text_grid_6{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+    grid-row-start: 6;
+    grid-row-end: 7;
+}
+
+.text_grid_7{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+    grid-row-start: 7;
+    grid-row-end: 8;
+}
+
+.text_grid_8{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+    grid-row-start: 8;
+    grid-row-end: 9;
+}
+
+.text_grid_9{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 4;
+    grid-column-end: 5;
+}
+
+.text_grid_10{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 6;
+    grid-column-end: 7;
+}
+
+.text_grid_11{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 8;
+    grid-column-end: 9;
+}
+
+.progres{
+    width: 446px;
+    height: 24px;
+    background-color: #F5D6AB;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-column-end: 4;
+}
+
+.progres_1{
+    width: 85%;
+    height: 24px;
+    background-color: #C66C49;
+}
+
+.progres_2{
+    width: 446px;
+    height: 24px;
+    background-color: #F5D6AB;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 5;
+    grid-column-end: 6;
+}
+
+.progres_3{
+    width: 79%;
+    height: 24px;
+    background-color: #C66C49;
+}
+
+.progres_4{
+    width: 446px;
+    height: 24px;
+    background-color: #F5D6AB;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 7;
+    grid-column-end: 8;
+}
+
+.progres_5{
+    width: 64%;
+    height: 24px;
+    background-color: #C66C49;
+}
+
+.incide_3{
+    width: 1440px;
+    height: 822px;
+    display: grid;
+    grid-template-columns: 168px 23px 110px 90px 126px 125px 350px 30px 255px;
+    grid-template-rows: 123px 65px 50px 66px 135px 27px 64px 26px 126px 26px 27px;
+}
+
+.portfolio_text{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #333333;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+
+.portfolio_text_1{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #333333;
+    grid-column-start: 2;
+    grid-row-start: 4;
+    grid-column-end: 4;
+}
+
+.portfolio_text_3{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: justify;
+    color: #333333;
+    margin-top: 7px;
+    grid-column-start: 2;
+    grid-row-start: 5;
+    grid-column-end: 6;
+}
+
+.img_1{
+    grid-column-start: 3;
+    grid-row-start: 10;
+}
+
+.img_2{
+    grid-column-start: 7;
+    grid-column-end: 10;
+    grid-row-start: 5;
+    grid-row-end: 11;
+    background-image: url(images/Portfolio\ Images.png);
+}
+
+.bottom{
+    width: 1440px;
+    height: 528px;
+    background-color: #FFFAF2;
+    margin-top: 824px;
+    display: grid;
+    grid-template-columns: 168px 139px 240px 380px 136px 175px;
+    grid-template-rows: 91px 80px 37px 36px 36px 36px 45px 70px;
+
+}
+
+.bottom_text_1{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #333333;
+    grid-column-start: 2;
+    grid-row-start: 2;
+}
+
+.bottom_text_2{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #333333;
+    grid-column-start: 2;
+    grid-row-start: 3;
+}
+
+.bottom_text_3{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #333333;
+    grid-column-start: 2;
+    grid-row-start: 4;
+}
+
+.bottom_text_4{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #333333;
+    grid-column-start: 2;
+    grid-row-start: 5;
+}
+
+.bottom_text_5{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #333333;
+    grid-column-start: 2;
+    grid-row-start: 6;
+}
+
+.bottom_text_6{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #333333;
+    grid-column-start: 2;
+    grid-row-start: 7;
+}
+
+.bottom_text_7{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #333333;
+    grid-column-start: 4;
+    grid-row-start: 3;
+}
+
+.bottom_text_8{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #333333;
+    grid-column-start: 4;
+    grid-row-start: 4;
+}
+
+.bottom_text_9{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #333333;
+    grid-column-start: 4;
+    grid-row-start: 5;
+}
+
+.bottom_text_10{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #333333;
+    grid-column-start: 4;
+    grid-row-start: 6;
+}
+
+.bottom_text_11{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #333333;
+    grid-column-start: 5;
+    grid-row-start: 3;
+}
+
+.bottom_text_12{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #333333;
+    grid-column-start: 5;
+    grid-row-start: 4;
+}
+
+.img_3{
+    grid-column-start: 7;
+    grid-row-start: 9;
+}
+
+@media screen and (max-width: 375px){
+    .big_box{
+        width: 375px;
+        margin: 0px auto;
+    }
+    
+    .head{
+        width: 375px;
+        height: 275px;
+        background-image: url(images/Background.png);
+        background-size: 100% 100%;
+        padding-top: 35px;
+    }
+
+    .title_text_3{
+        display: none !important;
+    }
+
+    .title_text_1{
+        width: 300px;
+        height: 29px;
+        margin-top: 10px;
+        margin: 0px auto;
+    }
+
+    .title_text_4{
+        width: 217px;
+        height: 110px;
+        padding-top: 40px;
+    }
+
+    .text_3{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        display: flex;
+        align-items: center;
+        color: #FFFFFF;
+        text-align: center;
+    }
+    
+    .text_4{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 1px;
+        color: #FFFFFF;
+        text-align: center;
+    }
+    
+    .text_5{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 16px;
+        text-decoration-line: underline;
+        color: #FFFFFF;
+        margin-top: 75px;
+        text-align: center;
+    }
+
+    .midle{
+        width: 70px;
+        height: 29px;
+    }
+
+    .text_6{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+        color: #333333;
+        text-align: center;
+        margin-top: 25px;
+    }
+    
+    .midle_1{
+        width: 312px;
+        height: 185px;
+    }
+
+    .text_7{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        text-align: justify;
+        color: #333333;
+        margin-top: 35px;
+    }
+    
+    .text_8{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        text-align: justify;
+        color: #333333;
+        margin-top: 15px;
+    }
+
+    .midle_2{
+        width: 375px;
+        height: 617px;
+        background-color:  #FFFAF2;
+        margin-top: 15px;
+    }
+
+    .inside{
+        width: 375px;
+        height: 29px;
+        padding-top: 30px
+    }
+
+    .text_9{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+        color: #333333;
+        text-align: center;
+    }
+
+    .inside_1{
+        width: 375px;
+        height: 559px;
+        margin: 55px auto 0px auto;
+        flex-direction: column;
+    }
+
+    .img_4{
+        width: 224px;
+        height: 218px;
+        background-image: url(images/Profile\ Picture.png);
+        background-size: cover;
+        margin: 0px auto;
+    }
+
+    .progres{
+        width: 211px;
+        height: 18px;
+        background-color: #F5D6AB;
+        grid-column-start: 4;
+        grid-column-end: 5;
+        grid-row-start: 7;
+        grid-column-end: 8;
+    }
+
+    .progres_1{
+        width: 85%;
+        height: 18px;
+        background-color: #C66C49;
+    }
+
+    .inside_2{
+        width: 375px;
+        height: 340px;
+        display: grid;
+        margin-top: 25px;
+        grid-template-columns: 40px 85px 15px 240px;
+        grid-template-rows: 15px 25px 45px 45px 45px 45px 45px;
+    }
+
+    .text_grid_1{
+        font-size: 12px;
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 1;
+        grid-row-end: 2;
+    }
+    
+    .text_grid_2{
+        font-size: 12px;
+        grid-column-start: 4;
+        grid-column-end: 5;
+        grid-row-start: 1;
+    }
+    
+    .text_grid_3{
+        font-size: 12px;
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 7;
+        grid-row-end: 8;
+    }
+    
+    .text_grid_4{
+        font-size: 12px;
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 4;
+        grid-row-end: 5;
+    }
+    
+    .text_grid_5{
+        font-size: 12px;
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 5;
+        grid-row-end: 6;
+    }
+    
+    .text_grid_6{
+        font-size: 12px;
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 6;
+        grid-row-end: 7;
+    }
+    
+    .text_grid_7{
+        font-size: 12px;
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 3;
+        grid-row-end: 4;
+    }
+    
+    .text_grid_8{
+        font-size: 12px;
+        grid-column-start: 2;
+        grid-column-end: 3;
+        grid-row-start: 8;
+    }
+    
+    .text_grid_9{
+        font-size: 12px;
+        grid-column-start: 4;
+        grid-column-end: 5;
+        grid-row-start: 8;
+    }
+    
+    .text_grid_10{
+        font-size: 12px;
+        grid-column-start: 4;
+        grid-column-end: 5;
+        grid-row-start: 6;
+    }
+    
+    .text_grid_11{
+        font-size: 12px;
+        grid-column-start: 4;
+        grid-column-end: 5;
+        grid-row-start: 4;
+    }
+
+    .progres_2{
+        width: 211px;
+        height: 18px;
+        background-color: #F5D6AB;
+        grid-column-start: 4;
+        grid-column-end: 5;
+        grid-row-start: 5;
+    }
+    
+    .progres_3{
+        width: 79%;
+        height: 18px;
+        background-color: #C66C49;
+    }
+
+    .progres_4{
+        width: 211px;
+        height: 18px;
+        background-color: #F5D6AB;
+        grid-column-start: 4;
+        grid-column-end: 5;
+        grid-row-start: 3;
+    }
+    
+    .progres_5{
+        width: 64%;
+        height: 18px;
+        background-color: #C66C49;
+    }
+
+    .img_1{
+        display: none;
+    }
+
+    .incide_3{
+        width: 375px;
+        height: 404px;
+        display: grid;
+        grid-template-columns: 45px 23px 86px 112px 88px;
+        grid-template-rows: 0px 30px 14px 29px 59px;
+    }
+
+    .portfolio_text{
+        font-weight: 600;
+        grid-column-start: 4;
+        grid-column-end: 5;
+        grid-row-start: 2;
+        grid-row-end: 4;
+    }
+
+    .portfolio_text_1{
+        grid-column-start: 4;
+        grid-row-start: 4;
+        grid-column-end: 5;
+    }
+
+    .portfolio_text_3{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        text-align: center;
+        color: #333333;
+    }
+
+    .img_2{
+        width: 308px;
+        height: 195px;
+        grid-column-start: 2;
+        grid-row-start: 7;
+        background-image: url(images/Portfolio\ Images_1.png);
+    }
+
+    .bottom{
+        width: 375px;
+        height: 360px;
+        background-color: #FFFAF2;
+        margin-top: 400px;
+        display: grid;
+        grid-template-columns: 43px 77px 78px 137px;
+        grid-template-rows: 30px 50px 37px 36px 36px 36px 45px 28px 38px;
+    }
+
+    .bottom_text_1{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 24px;
+        line-height: 29px;
+        color: #333333;
+        grid-column-start: 3;
+        grid-column-end: 5;
+        grid-row-start: 2;
+    }
+    
+    .bottom_text_2{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: #333333;
+        grid-column-start: 2;
+        grid-row-start: 3;
+    }
+    
+    .bottom_text_3{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: #333333;
+        grid-column-start: 2;
+        grid-row-start: 4;
+    }
+    
+    .bottom_text_4{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: #333333;
+        grid-column-start: 2;
+        grid-row-start: 5;
+    }
+    
+    .bottom_text_5{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: #333333;
+        grid-column-start: 2;
+        grid-row-start: 6;
+    }
+    
+    .bottom_text_6{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: #333333;
+        grid-column-start: 2;
+        grid-row-start: 7;
+    }
+    
+    .bottom_text_7{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: #333333;
+        grid-column-start: 4;
+        grid-row-start: 3;
+    }
+    
+    .bottom_text_8{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: #333333;
+        grid-column-start: 4;
+        grid-row-start: 4;
+    }
+
+    .bottom_text_9{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: #333333;
+        grid-column-start: 4;
+        grid-row-start: 5;
+    }
+    
+    .bottom_text_10{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: #333333;
+        grid-column-start: 4;
+        grid-row-start: 6;
+    }
+    
+    .bottom_text_11{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 17px;
+        color: #333333;
+        grid-column-start: 2;
+        grid-row-start: 8;
+    }
+    
+    .bottom_text_12{
+        font-family: 'Libre Franklin';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        color: #333333;
+        grid-column-start: 2;
+        grid-column-end: 4;
+        grid-row-start: 9;
+    }
+
+    .img_3{
+        grid-column-start: 5;
+        grid-row-start: 8;
+    }
+
+    .navbar{
+        width: 100px;
+        height: 24px;
+        display: block;
+        background-image: url(images/GlobalNavButton\(E700\).png);
+        background-repeat: no-repeat;
+    }
+
+
+
+
+
+
+}
+
